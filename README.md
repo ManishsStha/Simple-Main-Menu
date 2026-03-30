@@ -1,2 +1,2 @@
-# Simple-Bread-collecting-game
-Baiscs of scenery change from gravity to non gravity in different surrounding
+# Main Menu
+Making a simple main menu usig the godot
